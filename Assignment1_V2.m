@@ -225,7 +225,7 @@ Ki = 1;
 % %     F_requested_driver = (m_vh.*acc_driver + Croll.*m_vh.*g.*sign(WLTP_v) + Cdrag.*WLTP_v.^2);
 % end
 
-
+Sam = 0;
 %????
 
 %% energy of cycle, cumulative positive propulsion power
